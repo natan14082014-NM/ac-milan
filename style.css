@@ -1,0 +1,46 @@
+.header{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    justify-content: center;
+}
+h1{
+    font-size: 100px;
+    color: rgb(255, 0, 0);
+}
+.button{
+    width: auto;
+    min-width: fit-content;
+    min-height: 24.00px;
+    color: rgb(174, 11, 11);
+    font-family: Arial;
+    font-weight: 400;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    text-align: left;
+    line-height: 24px;
+    font-size: 18px;
+    font-size: 35px;
+}
+.image1{
+    background-image: url(ac-milan-logo-with-star-rpq3nxm7hkw4nwuq.jpg);
+}
+.menu{
+    position: absolute;
+    width: 80%;
+    display: flex;
+    margin-top: 30px;
+    top: 200px;
+    left: 100px;
+    justify-content: space-between;
+    z-index: 10;
+}
+hr{
+    border: none;
+    height: 10px;
+    background-color: black;
+}
